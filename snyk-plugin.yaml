@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: harness-idp
+  description: An example of a Backstage application.
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+  annotations:
+    snyk.io/org-name: bhavya.sinha
+    snyk.io/project-ids: 6cbf8872-401a-41a5-a958-cad0b55c4352
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
