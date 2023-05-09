@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Java-goof
-  description: Java Goof
+  name: Snyk-plugin
+  description: Snyk plugin catalog info yaml
   # Example for optional annotations
     # annotations:
     #   github.com/project-slug: backstage/backstage
