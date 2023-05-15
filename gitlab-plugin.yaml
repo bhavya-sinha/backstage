@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Gitlab Plugin
+  name: Gitlab-Plugin
   description: Gitlab Plugin Ctalog info YAML
   # Example for optional annotations
   annotations:
-    gitlab.com/project-id: '46025722'
-    # backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master/plugins/techdocs-backend/examples/documented-component
+    gitlab.com/project-id: 46025722
+    backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master/plugins/techdocs-backend/examples/documented-component
 spec:
   type: service
   lifecycle: experimental
