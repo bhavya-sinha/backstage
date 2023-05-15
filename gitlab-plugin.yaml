@@ -1,1 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Gitlab Plugin
+  description: Gitlab Plugin Ctalog info YAML
+  # Example for optional annotations
+  annotations:
+    gitlab.com/project-id: 46025722
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: john@example.com
+  lifecycle: experimental
 
