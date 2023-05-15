@@ -6,9 +6,8 @@ metadata:
   # Example for optional annotations
   annotations:
     gitlab.com/project-id: '46025722'
-    backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master/plugins/techdocs-backend/examples/documented-component
+    # backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master/plugins/techdocs-backend/examples/documented-component
 spec:
   type: service
   lifecycle: experimental
   owner: harness/Buildandtools
-
