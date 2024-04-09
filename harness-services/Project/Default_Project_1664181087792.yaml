@@ -1,0 +1,10 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Default_Project_1664181087792
+  description: ""
+  title: Default Project
+  tags: []
+spec:
+  owner: Unknown
+  domain: default
