@@ -1,0 +1,13 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: DS
+  annotations: {}
+  title: DS
+  tags: []
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  domain: Unknown
+  system: Unknown
