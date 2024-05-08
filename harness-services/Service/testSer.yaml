@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: testSer
+  annotations:
+    harness.io/project-url-qa: https://qa.harness.io/ng/account/rzjR8UyZTpOAd6SLDfdBuw/home/orgs/default/projects/default_project/details
+    harness.io/cd-serviceId: testSer
+    harness.io/services: |
+      testSer: https://qa.harness.io/ng/account/rzjR8UyZTpOAd6SLDfdBuw/cd/orgs/default/projects/default_project/services/testSer
+  title: testSer
+  tags: []
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  domain: default
+  system: default_project
