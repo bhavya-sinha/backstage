@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: adfea
+  annotations:
+    harness.io/project-url-qa: https://qa.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/home/orgs/NgTriggersOrg/projects/karan_test/details
+    harness.io/cd-serviceId: adfea
+    harness.io/services: |
+      adfea: https://qa.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/cd/orgs/NgTriggersOrg/projects/karan_test/services/adfea
+  title: adfea
+  tags: []
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  domain: NgTriggersOrg
+  system: karan_test
