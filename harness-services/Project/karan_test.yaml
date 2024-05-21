@@ -1,0 +1,10 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: karan_test
+  description: ""
+  title: karan test
+  tags: []
+spec:
+  owner: Unknown
+  domain: NgTriggersOrg
