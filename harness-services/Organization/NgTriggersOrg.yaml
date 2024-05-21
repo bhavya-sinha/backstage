@@ -1,0 +1,9 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: NgTriggersOrg
+  description: ""
+  title: NgTriggersOrg
+  tags: []
+spec:
+  owner: Unknown
