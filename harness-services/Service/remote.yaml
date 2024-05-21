@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: remote
+  annotations:
+    harness.io/project-url-qa: https://qa.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/home/orgs/Harness_io/projects/donotdeleteshivanand/details
+    harness.io/cd-serviceId: remote
+    harness.io/services: |
+      remote: https://qa.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/cd/orgs/Harness_io/projects/donotdeleteshivanand/services/remote
+  title: remote
+  tags: []
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  domain: Harness_io
+  system: donotdeleteshivanand
